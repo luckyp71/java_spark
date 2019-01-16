@@ -1,0 +1,9 @@
+No,Animal,Name,Group,Age
+1,cat,cat_a,mammal,2
+2,dog,dog_a,mammal,3
+3,frog,frog_a,salamander,2
+4,bee,bee_a,insects,2
+5,spider,spider_a,arachnids,4
+6,dog,dog_b,mammal,2
+7,frog,frog_b,salamander,2
+8,cat,cat_b,mammal,2
